@@ -1,0 +1,28 @@
+{
+  "name": "toast",
+  "title": "jQuery.toast - toast notifications",  
+  "version": "1.0.0",
+  "author": {
+    "name": "Brian Maxwell"    
+  },
+  "keywords": [
+    "toast",
+    "message",
+    "notification",
+	"notify",
+	"note",
+	"popup",
+	"alert",
+	"warn",
+	"warning"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.6.3"
+  }
+}
