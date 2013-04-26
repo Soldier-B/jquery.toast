@@ -1,7 +1,7 @@
 jquery.toast
 ============
 
-A simple jQuery "toast" message plugin.
+A simple jQuery "toast" message plugin. You can view the example page [here](http://htmlpreview.github.com/?https://github.com/Soldier-B/jquery.toast/blob/master/example/jquery.toast.html).
 
 
 ## Required Files
