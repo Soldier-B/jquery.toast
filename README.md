@@ -29,7 +29,7 @@ Options include toast duration, stickiness, and toast type.
 Before using the plugin you have the option to define a few global properties. After the first toast has been made, they will be locked in.
 These properties include toast width, page alignment, and close button status.
 
-$.toast.config._property_ = *value*
+$.toast.config["_property_"] = *value*
 
 * **width** - Width of toast items in pixels. (default: 500)
 * **align** - Alignment of toasts in the page. Possibly values are 'left', 'center', and 'right'. (default: 'center')
