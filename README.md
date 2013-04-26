@@ -39,8 +39,8 @@ Example:
 
     $.toast.config.width = 800;
     $.toast.config.align = 'right';
-    $.toast.config.closeForStickyOnly = true;
+    $.toast.config.closeForStickyOnly = false;
 
 * **width** - Width of toast items in pixels. (default: 500)
 * **align** - Alignment of toasts in the page. Possibly values are 'left', 'center', and 'right'. (default: 'center')
-* **closeForStickyOnly** - Determines if the close button is displayed for all toasts or just those that are sticky. (default: false)
+* **closeForStickyOnly** - Determines if the close button is displayed for all toasts or just those that are sticky. (default: true)
