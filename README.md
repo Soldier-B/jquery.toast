@@ -13,7 +13,7 @@ A simple jQuery "toast" message plugin.
 
     $.toast('content', options);
 
-Example: `$.toast('<h4>Hello, world!</h4> Your content here!');`
+Example: `$.toast('<h4>Hello, world!</h4> Your content here!');` or `$.toast('<h4>Error!</h4> Something went wrong.', {sticky: true, type: 'danger'});`
 
 ## Options
 
