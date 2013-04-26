@@ -24,5 +24,6 @@
   ],
   "dependencies": {
     "jquery": ">=1.6.3"
-  }
+  },
+  "demo": "http://htmlpreview.github.com/?https://github.com/Soldier-B/jquery.toast/blob/master/example/jquery.toast.html"
 }
