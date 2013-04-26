@@ -30,6 +30,7 @@ Before using the plugin you have the option to define a few global properties. A
 These properties include toast width, page alignment, and close button status.
 
 Example:
+
     $.toast.config.width = 800;
     $.toast.config.align = 'right';
     $.toast.config.closeForStickyOnly = true;
